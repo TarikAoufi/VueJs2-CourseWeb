@@ -1,4 +1,4 @@
-# vuejs2-tuto-crud
+# VueJs2-CourseWeb
 
 ## Project setup
 ```
