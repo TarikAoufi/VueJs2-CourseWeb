@@ -1,24 +1,16 @@
 # VueJs2-CourseWeb
 
-## Project setup
-```
-npm install
-```
+Cette application web, est basée sur Vue.js 2 permettant de consommer des APIs REST, d'afficher et modifier des données à l'aide de v-data-table:Vuetify d'Axios et Vue Router.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+    Package à installer:
 
-### Lints and fixes files
-```
-npm run lint
-```
+    vue add vuetify
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+    npm install vue-router
+
+    npm install axios
+    
+    
+    
+URL: http://localhost:8081/
